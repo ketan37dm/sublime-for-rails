@@ -4,7 +4,7 @@ I'd be really happy if this helps somebody else !!
 Cheers Folks !! :D
 
 --------------------------------------------------------------------------------------------------------------
-                                          Some Other Sources 
+                                                     Some Other Sources 
 --------------------------------------------------------------------------------------------------------------
 
 Also there is a nice plugin to create partials in seconds :  rails-partial
